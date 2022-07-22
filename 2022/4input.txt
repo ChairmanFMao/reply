@@ -1,0 +1,502 @@
+3
+9 58 786
+0 6 3
+M M M M M M
+M O M M M *
+M M M M M M
+M M M M * M
+M M M * M M
+M M M M I M
+1 12 5
+M * * * * * * * * * O *
+* * * * * M M * * M * *
+M * * * M M * * * M M *
+M * M M M M * * * * * M
+M * * * * * * M M * * *
+M * * * * M M M * M M *
+* * * * * * * * * M M *
+M * I M * M * M * * * *
+* * * M * M * M M * * M
+* M * * * M * * * * * M
+* M M * * M M * M * M *
+M * * M * M * * * * * *
+2 4 5
+* M * M
+* M M M
+* M M M
+O * I *
+3 10 3
+M * M M * * M M * M
+M M * * M M M * * *
+M M M * M * M M M M
+* * M M M * * M * *
+M * M * * M * M M M
+* * M M M M * M M M
+* M I * M * M * * *
+M * * * M M M * O M
+* * * M M M M M M M
+* * * * * M M * * M
+4 15 3
+* M I * M * * * * M * M * * *
+* * * * * M M * * * * * * * M
+* * * M * * * * * * * * * * *
+* * * * * * * * * * * M * * *
+* * * M * M * * * * * * * * *
+* * * * M * * * * M * * * M M
+* * * * * * * * M * * * * * *
+* * * * * M * M * * * * * * M
+M * * * M * * * * * * * * M *
+* M O * * M * * * * * * * * *
+* * * * * M M * M M M * * * M
+* * M * M * * * * * * * M * *
+M * * * * * * M * * * * * * M
+* * * * M M * * * * * * * * *
+* * * * * * * * * * * * * * *
+5 12 2
+* * * * * * * * M * * *
+* * * * M * * * I M * M
+M * * M M M * * * * * M
+M * * * * * * * * M M *
+* * * * * M * M * M * *
+* O * * * * * * M * * M
+* M * * * * * M M * * *
+* M * * * * M * * * * *
+* M * * * * M * * M * M
+* * * * * * * * M * * M
+* * M M * * M * * * M *
+* * M * * * * * * * * *
+6 6 3
+* M * M M M
+* M * M * *
+* M * M * *
+M * * M M *
+* * * * * *
+* * O * I M
+7 10 3
+* * * * * M M M * M
+* * M * * M * * * M
+M M M * M M * * M M
+M * * * * M M M M *
+* * M M * * M M M *
+M * * M M * M I * M
+O M M M M M M M M *
+M * M * M * M M M M
+* M * M M M * M M M
+M * M M * * * M * *
+8 8 2
+M M * * O M M *
+M * M M M * M M
+M * M M * M * M
+M M M M M I M M
+M M * * * * M M
+M * M M M * M M
+* M * * M M M *
+M M M M M * M M
+19 63 818
+0 6 1
+* M * M M M
+I * * M * M
+M M * M M *
+* * O M M *
+M M * M * M
+* * * M M M
+1 14 5
+M M M M M M M M M * M * M M
+* M M M M M M * M * M M M M
+* * M M M M * M M M M * M M
+M M * M M O M M M M M M M *
+* M M M M M M M * M M M M M
+M M M M M M M M M M M M M M
+I M M M M M * M * M M M M M
+M M M M M M M M * M M M M *
+M M M * M M M M M M M M M *
+M M M M M M M M M M M * * M
+M M M M M M M M * * * M M M
+M M * M M M M M M M M M M *
+M M M M M M M M M M * M * M
+M M M M M M M M M M M M M M
+2 6 3
+M M * M M M
+M M M M M *
+M M M M M M
+M M M O * M
+* M * * I M
+M * * M * M
+3 6 2
+M I M M M M
+M M M M M O
+M M M M M M
+M * * M M M
+M M M M * M
+M M M M M M
+4 14 3
+* M * * * * * * * * * * * *
+* * M * * * * * * * * * M *
+* * * M * * * * * * M * * *
+* * * M * M * * * * * * * *
+* M * * * * * M * * M M * *
+* * * * * M * * * * * M * *
+* * M * * M * M * * * * * *
+* * * * * * * * * M * * * *
+O * * * * M * * * * * * * *
+* * * * M M * * * * * * * *
+* * * * I * * * * * * M * *
+* * * * * * * * * * * * M *
+* * * * M * M * M * * M * *
+* * * * * * * * * * * M * *
+5 4 4
+O * M M
+M * M M
+M M M *
+M M * I
+6 5 4
+I M M O M
+* M M * *
+* M M M *
+M M M M M
+* * M M M
+7 9 2
+* M M M M M * * *
+M M M M * M * * *
+M * M M M * M M *
+M M M M I M M * M
+M M M M M M M M *
+M M M M * * M M *
+* * M M * M * * M
+M M M M * M * * M
+* M O M * * M M M
+8 7 2
+M M M M * * *
+* * * M M M *
+M * * M M M M
+* * M * * M M
+M M M * * * M
+* M M M * * *
+M O * * I M *
+9 9 4
+M M M M I * M M M
+M M * M M M M M M
+M M M M M O M M M
+M M M M M M M M M
+M M M M M * M M *
+M M M M M M M M *
+* M M * M M * M M
+M M M M * M M M M
+M M M M M M M M M
+10 7 1
+M M M M * * *
+* * M * M * I
+M * M * * * *
+* * * M * * *
+M * * * M O M
+M * M * M M *
+M M * M * * *
+11 15 2
+* * M M M * M M M M M M M M M
+M * M M M M M * M * M M * M M
+M * M * M M * M M M M M M * O
+M * M M M M M M * * M M M * M
+M M * M M * M M M * M M M M *
+* M M M M * M M M * M M M M M
+M M M M M M * M M * * M M M M
+M M M M M M * * M M M * M M M
+M * M M M * M M M * * M M * M
+M * M M * * I M M * M M M M M
+M M M M M M M M M M * * M * M
+* M M * * M M M M M M * M * M
+M M M M M M M M * * M M * * *
+M M M M * M * * M M M M * * M
+M M M M M * M M M M M M M * M
+12 15 3
+* M M M M M M M * M M I M M *
+M M M M M M M M M * M M M M M
+* M * M M M M M * * M * M M *
+M M * * M M M M M M M M * M *
+M M M * M * M * M * M * M M M
+* M M M * * M * M M M M * M M
+M M * * * M M M M M M M * M *
+* M * * M M M * M M * * * M *
+* M M * M M * M M M M M M * M
+* M * M M M M M M M M M M M *
+M M M M M * * M M M M * M * M
+* * M M M M M * M M M * M M *
+* * M * M * M M M M * * M M M
+M M M M M M O M M M * * M * M
+* M M M M M M M M * M M * M M
+13 10 1
+M * M M M M * M M M
+* M M M M M M M * M
+* * * M M * M M M *
+M M M M M * M M M *
+M * M * M M * M M M
+M M M M M M M M * M
+M I M * M O M * M M
+M M M * M M M * M *
+M M M M * * M * M M
+M M M M * M M * M M
+14 11 3
+M * M M M * M M * M M
+M M * M * M M M * M *
+M M M M M * M * M M M
+M M M M M M M M M M M
+M * * M M * M * * * *
+M M M M M * M M M M M
+M M M * * M * M * * M
+M * * M M * O * * * M
+M M M M M M M M M * M
+* * M I M M M * M M *
+M * * M M M M * * M *
+15 14 5
+* M * * M M M M M M * * M *
+M * M M M * M M M * M M * *
+M M M M M M * * M M M M * *
+* * * * * * M * * I * * M M
+* * * M M * * * M * M * * *
+* * O * * M M * * M M M * *
+* M M M M * M M M M M M * M
+M * * M * * M M M M M M * M
+* * M M * * M M * * * * * *
+* M * * M M M M * * * M * *
+M * * * * * * M * M M M M *
+M M * * * * * * * * M M M M
+* M M * M M M * * M M M * M
+M * * M * M M * M M * M * *
+16 8 4
+M M * M M M I M
+M M * M M * M *
+M * M M * M * *
+* * M M * * * M
+* M O * M * M M
+* M * * M * M *
+M M M M * * M *
+M M * M M * M M
+17 14 4
+M M * M M M M M M M M M M M
+M M M M M * M M M M M M * *
+* * * M M M M * I M M * M M
+M M * M M M M M M M M M M *
+* M M M M M M M M M M M O M
+* M * M M M M M M M M M * M
+M M M M M M M M M M * M M M
+M * M M M * M M M M M M M M
+M M M M M M M M M M * * * M
+M M M * M M M * M * M M M M
+M M M M M M M M M M M M M M
+M * * M M M M M M M M M * M
+M M M M M M M M M M M * * M
+* * M M M M * M M M M M M M
+18 12 5
+* * * M * * * * M M * *
+M * M * M * * * * M * M
+* M M I M * M * * * M *
+* M * M * * M M * * * M
+M * M M * * * * M M M M
+M M M * * M * M M * M *
+M * * * * M * * M * * *
+* M * * * * * * M * * M
+* M * * O M * M * M * *
+* * M M * M M * * * * M
+M * * * * M M * M * M M
+M * * * * * M M * * M M
+20 57 1595
+0 11 1
+* M * * M * M M * * *
+M * M M I * M * * * *
+M M M M M M * * * * *
+M * M M M M * M * M O
+* M * * M M M * M M M
+M * M M M M M M * M M
+M M * * M M M M * * M
+M M * M M * M M M M *
+M M M M * M M M M * M
+M M M * M M M * M * M
+* M M * M M M * * M M
+1 8 1
+I M * * * M * M
+* * * M * M * M
+* M * * * M M M
+* M M * * * * *
+M M * * * M * *
+M M * * * M * M
+* * M * * M * *
+M * M * * * O M
+2 4 5
+I M M O
+M M M M
+M M M M
+M M M M
+3 8 5
+M * M * * * * M
+M * M M M M M O
+* * I M M * * *
+* * * * * M M M
+M M * M M * * M
+M M * * * M M *
+* * M * M * M M
+* * * M M M * M
+4 9 5
+* M I M * M M M M
+M * * M * * M M M
+M M M M M * M M M
+M M M M M M M M *
+M M M * * * M * M
+O M M M M M M * M
+M M M M M M M * M
+M M M M M M M * M
+* M M M M * M M M
+5 12 2
+M M * M M M M M M M I M
+M M M M M M M M M M M *
+M M * M M * M M M M * M
+M M * M M M M M M M M M
+M * M M * M M M M M M M
+* M M M M M M M M M M M
+M M M M M M M * * M M *
+M M M M M * * * M * M M
+M M M M * M M M M M M M
+* M M M M M M M O M M M
+M M M M M M M M M M M *
+M M M M M M M M M M M M
+6 8 3
+M M M M M M M M
+M M M M M * * M
+* * M M M M * M
+M * * M * M * M
+M * M M M M M *
+M M M * O * M *
+M M * * I * * M
+M M * M M M * M
+7 4 4
+O * M *
+M M M M
+* M M M
+* * I M
+8 13 2
+M * * M M I * * * M * M *
+M M M M M M M * M * M M *
+* M M M * * M M M M M M M
+M M M M * M M M M * M M *
+M * * M O M M * M * M M M
+* M M M M * M M * M * * *
+M M * * M * M M * M M * *
+M M * M M M M M M M M M M
+* M M M M * M M M M * M M
+* M M M M M M M M M M * M
+* M * M M * * M M * M M M
+M M * M M M * * M * * M *
+* M M * M M M * M * * * *
+9 11 2
+* * * M M M M * M * M
+* * M M M M * M * * M
+M M M M M M M M * * M
+M M M I * M * * * * *
+* * O * M * * M * * M
+* M M * M * * * M * *
+M M M * M * M * M M *
+M * M M * * * M * * *
+* M M M M * * M M M M
+* M M M * M * M * M M
+M M * M * * * M M M M
+10 11 2
+* M M M M M M * M M M
+M M M M M M M M * * M
+* M M M M I * M M M M
+M * * M * M M M M M M
+* M M M M M M M M M M
+M M M M M M M M M M M
+M M M M M M M M * O M
+M M M M M M M M M M M
+M M M M M M M M M M M
+M M M * M * M M M M *
+M M M M M M M M M M M
+11 13 1
+* * M * M * M M * * * M M
+* * M M * M M M * * * * *
+* * M M * M * M * M M * *
+M * M * * * * * M * M * *
+* * * * M M * * * * * * M
+* * * M * * M * M * M M *
+* * * * * M * * M * * M *
+M M M * * M * * * * * * M
+* M M M M * * * * * M * M
+* M M * M I M * M * M * M
+M * * M M M * * * M M M M
+* * * * M * O M M M * * *
+M M M * M M * * * M * M M
+12 11 5
+M M * * M M * M * * M
+M M M * M * * M M M *
+M M M * M M M * * M M
+M * * * * M M M * * *
+* M M M M M * * M * *
+* * * * M M * * M M M
+M * M * * * M * M M M
+M M M * M * M * M I M
+* M M M M M * M * M *
+* M * M M M M M M * *
+M O * * * * M M M M *
+13 8 4
+* * M M M * * M
+M * * O M M M M
+M * M * * M * *
+M * * M M M * *
+M M * M M * * M
+I * M M * M M *
+M * * * * * * M
+M M M M M M M *
+14 9 4
+* * M * * * M M *
+* * M M * * * * *
+* * * * M M * * M
+M M M * M * * * *
+M * * * * * * M M
+M * * * * * I M *
+M * M * * * * * *
+O * * * * M M M M
+* * * M * * M M *
+15 4 3
+M M M M
+I M * M
+M M M M
+O M M M
+16 8 2
+* M M M M M M *
+M M M M M M M *
+* * M * * O M M
+* M * M M M * M
+* M M M M I * M
+M M M * M M * *
+* M M * M M M M
+* M * M * * * M
+17 14 2
+M M M M M M * * M * M M M M
+* * * * M M M M M * * M * M
+* M M * * M * M M M M * M M
+* M M M M M M M M * * M M *
+* * * * M * * M * M M * M M
+M * M M * M M M M M M * M I
+* * * * * M M M M M * M M *
+M * * M M * M * * M M * M *
+* M * M M * M M * M M * O M
+* M * * * M M M * * * * M M
+* * M M M M * M M M * M * *
+* * M * * M * M M * M M M M
+M * * * * * M * M * M M M M
+M * M * M M M M M M * M M *
+18 4 3
+M * * M
+* M M M
+M * M *
+O M I M
+19 11 3
+* * * * * M M * M * M
+* * * * * * * * * * *
+* * * * O * * * * * M
+M * * M M M M * * M M
+* * * M * M M * M M M
+* M * * * I M * * * *
+* * * * * * M * M M *
+M M * M * M * M * * M
+M * M M * M * M M * M
+M * * M * M * * * M *
+* * * M * * M * M M *
